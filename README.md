@@ -8,7 +8,7 @@ Welcome to the replication package of our paper **On the Study of ML Cloud Servi
 This repository contains the following resources:
 
 ### 1. 📄 **Papers Collected from the Systematic Literature Review**
-   - A collection of research papers and publications gathered during the systematic literature review: [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/Paper%20Set.pdf)
+   - A collection of research papers and publications gathered during the systematic literature review: [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/Papers%20set.pdf)
 
 ### 2. 💻 **GitHub Repositories Mined**
    - A curated collection of GitHub repositories related to the research topics: ML services and antipatterns.
@@ -21,12 +21,12 @@ This repository contains the following resources:
 ### 4. 📋 **Pilot Interviews Responses (Anonymized)**
    - Responses collected from our pilot interviews.
    - The data has been anonymized to protect the privacy of participants.
-   - Provides valuable insights into participants' feedback on the survey, including remarks on its length, consistency, and any duplicate questions: [here]()
+   - Provides valuable insights into participants' feedback on the survey, including remarks on its length, consistency, and any duplicate questions: [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/Pilot%20Interviews%20(r%C3%A9ponses).csv)
 
 ### 5. 📋 **Survey Responses (Anonymized)**
    - Responses collected from our survey.
    - The data has been anonymized to protect the privacy of participants.
-   - Provides valuable insights into developer perspectives on ML service misuses: [here]()
+   - Provides valuable insights into developer perspectives on ML service misuses: [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/ML%20practitioners%20Survey%20(reponses).csv)
 ## 🛠 Technologies & Tools Used
 
 - **Data Mining**: Python, GitHub API, StackOverflow API
