@@ -8,7 +8,8 @@ Welcome to the replication package of our paper **On the Study of ML Cloud Servi
 This repository contains the following resources:
 
 ### 1. 📄 **Papers Collected from the Systematic Literature Review**
-   - A collection of research papers and publications gathered during the systematic literature review: [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/Papers%20set.pdf)
+   - A collection of research papers and publications gathered during the systematic literature review. Below are the references for the paper. 
+      You can also find them [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/Papers%20set.pdf)
 
       - WAN, Chengcheng, LIU, Shicheng, HOFFMANN, Henry, et al. Are machine learning cloud APIs used correctly? In 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE). 2021.
       
