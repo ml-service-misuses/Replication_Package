@@ -35,7 +35,7 @@ This repository contains the following resources:
       - VAN OORT, Bart, CRUZ, Luís, LONI, Babak, et al. "Project smells" experiences in analysing the software quality of ML projects with mllint. In: Proceedings of the 44th International Conference on Software Engineering: Software Engineering in Practice. 2022. p. 211-220.
       
       - WAN, Chengcheng, LIU, Shicheng, XIE, Sophie, et al. Automated testing of software that uses machine learning APIs. In: Proceedings of the 44th International Conference on Software Engineering. 2022. p. 212-224.
-      - - LU, Qinghua, ZHU, Liming, XU, Xiwei, et al. Responsible AI pattern catalogue: A collection of best practices for AI governance and engineering. ACM Computing Surveys, 2024, vol. 56, no 7, p. 1-35.  
+      - LU, Qinghua, ZHU, Liming, XU, Xiwei, et al. Responsible AI pattern catalogue: A collection of best practices for AI governance and engineering. ACM Computing Surveys, 2024, vol. 56, no 7, p. 1-35.  
       
       - YANG, Jingbo, REN, Jian, et WU, Wenjun. API Misuse Detection Method Based on Transformer. In: 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS). IEEE, 2022. p. 958-969.  
       
