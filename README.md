@@ -94,7 +94,8 @@ This repository contains the following resources:
    - In-depth information on the GitHub repositories, including: descriptions, contributors, number of stars, and forks.
 
 ### 3. 📊 **Results of the Analysis of GitHub Projects**
-   - This analysis identifies ML service misuses across the projects: [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/ML%20Service%20misuses-occurrence.pdf)
+   - This analysis identifies ML service misuses across the projects: [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/ML%20Service%20misuses-occurrence.pdf).
+     You can find the detailed analysis [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/Detected%20Misuses.xlsx). 
  ![Alt text](https://github.com/ml-service-misuses/Replication_Package/blob/main/occurrence.png)
 
 
