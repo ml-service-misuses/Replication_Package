@@ -1,7 +1,7 @@
 # Replication-Package
-# 📚 On the Study of ML Cloud Service Misuses: An Industrial Perspective
+# 📚 A Comprehensive Multi-Vocal Empirical Study of ML Cloud Service Misuses
 
-Welcome to the replication package of our paper **On the Study of ML Cloud Service Misuses: An Industrial Perspective**! 🚀 This repository compiles all results from the systematic review of literature, mining of GitHub repositories, and analysis of survey responses. It aims to uncover trends, patterns, and insights across multiple software development and research projects.
+Welcome to the replication package of our paper **A Comprehensive Multi-Vocal Empirical Study of ML Cloud Service Misuses**! 🚀 This repository compiles all results from the systematic review of literature, mining of GitHub repositories, and analysis of survey responses. It aims to uncover trends, patterns, and insights across multiple software development and research projects.
 
 ## 📂 Repository Contents
 
