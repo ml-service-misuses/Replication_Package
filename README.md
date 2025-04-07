@@ -37,9 +37,7 @@ This repository contains the following resources:
       
       - WAN, Chengcheng, LIU, Shicheng, XIE, Sophie, et al. Automated testing of software that uses machine learning APIs. In: Proceedings of the 44th International Conference on Software Engineering. 2022. p. 212-224.
       - LU, Qinghua, ZHU, Liming, XU, Xiwei, et al. Responsible AI pattern catalogue: A collection of best practices for AI governance and engineering. ACM Computing Surveys, 2024, vol. 56, no 7, p. 1-35.  
-      
-      - YANG, Jingbo, REN, Jian, et WU, Wenjun. API Misuse Detection Method Based on Transformer. In: 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS). IEEE, 2022. p. 958-969.  
-      
+            
       - HARDT, Michaela, CHEN, Xiaoguang, CHENG, Xiaoyi, et al. Amazon SageMaker Clarify: Machine learning bias detection and explainability in the cloud. In: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021. p. 2974-2983.  
       
       - RAVINDRANATHAN, Manya K., VADIVU, D. Sendil, et RAJAGOPALAN, Narendran. Cloud-Driven Machine Learning with AWS: A Comprehensive Review of Services. In: 2024 International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE). IEEE, 2024. p. 1-8.  
@@ -81,9 +79,7 @@ This repository contains the following resources:
       - VICTORIA, A. Helen et MARAGATHAM, Ganesh. Automatic tuning of hyperparameters using Bayesian optimization. Evolving Systems, 2021, vol. 12, no 1, p. 217-223.  
       
       - WANG, Chenyu, YANG, Zhou, LI, Ze Shi, et al. Quality assurance for artificial intelligence: A study of industrial concerns, challenges and best practices. arXiv preprint arXiv:2402.16391, 2024.  
-      
-      - BOVA, Carol, JAFFARIAN, Carol, CRAWFORD, Sybil, et al. Intervention fidelity: monitoring drift, providing feedback, and assessing the control condition. Nursing Research, 2017, vol. 66, no 1, p. 54-59.  
-      
+            
       - MALLICK, Ankur, HSIEH, Kevin, ARZANI, Behnaz, et al. Matchmaker: Data drift mitigation in machine learning for large-scale systems. Proceedings of Machine Learning and Systems, 2022, vol. 4, p. 77-94.  
       
       - Naser, M. Z., and Amir Alavi. Insights into performance fitness and error metrics for machine learning. arXiv preprint arXiv:2006.00887 (2020).  
