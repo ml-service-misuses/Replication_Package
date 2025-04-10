@@ -12,6 +12,8 @@ This repository contains the following resources:
       You can also find them [here](https://github.com/ml-service-misuses/Replication_Package/blob/main/Papers%20set.pdf)
 
       - WAN, Chengcheng, LIU, Shicheng, HOFFMANN, Henry, et al. Are machine learning cloud APIs used correctly? In 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE). 2021.
+        
+      - WEI, Moshi, HARZEVILI, Nima Shiri, HUANG, YueKai, et al. Demystifying and detecting misuses of deep learning apis. In : Proceedings of the IEEE/ACM 46th International Conference on Software Engineering. 2024. p. 1-12.
       
       - CAO, Junming, CHEN, Bihuan, SUN, Chao, et al. Understanding performance problems in deep learning systems. In: Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering.
       
@@ -34,13 +36,19 @@ This repository contains the following resources:
       - SERBAN, Alex, VAN DER BLOM, Koen, HOOS, Holger, et al. Adoption and effects of software engineering best practices in machine learning. In: Proceedings of the 14th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). 2020. p. 1-12.
       
       - VAN OORT, Bart, CRUZ, Luís, LONI, Babak, et al. "Project smells" experiences in analysing the software quality of ML projects with mllint. In: Proceedings of the 44th International Conference on Software Engineering: Software Engineering in Practice. 2022. p. 211-220.
+              - BHATIA, Aaditya, KHOMH, Foutse, ADAMS, Bram, et al. An empirical study of self-admitted technical debt in machine learning software. arXiv preprint arXiv:2311.12019, 2023.
+
+      - NASER, M. Z. et ALAVI, Amir. Insights into performance fitness and error metrics for machine learning. arXiv preprint arXiv:2006.00887, 2020.
+
+      - SHE, Xinyu, LIU, Yue, ZHAO, Yanjie, et al. Pitfalls in language models for code intelligence: A taxonomy and survey. arXiv preprint arXiv:2310.17903, 2023.
+        
+      - HELIS BERNARDO, João, ALENCAR DA COSTA, Daniel, ROSEIRO COGO, Filipe, et al. Continuous Integration Practices in Machine Learning Projects: The PractitionersPerspective. arXiv e-prints, 2025, p. arXiv: 2502.17378.
       
       - WAN, Chengcheng, LIU, Shicheng, XIE, Sophie, et al. Automated testing of software that uses machine learning APIs. In: Proceedings of the 44th International Conference on Software Engineering. 2022. p. 212-224.
+
       - LU, Qinghua, ZHU, Liming, XU, Xiwei, et al. Responsible AI pattern catalogue: A collection of best practices for AI governance and engineering. ACM Computing Surveys, 2024, vol. 56, no 7, p. 1-35.  
             
-      - HARDT, Michaela, CHEN, Xiaoguang, CHENG, Xiaoyi, et al. Amazon SageMaker Clarify: Machine learning bias detection and explainability in the cloud. In: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021. p. 2974-2983.  
-      
-      - RAVINDRANATHAN, Manya K., VADIVU, D. Sendil, et RAJAGOPALAN, Narendran. Cloud-Driven Machine Learning with AWS: A Comprehensive Review of Services. In: 2024 International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE). IEEE, 2024. p. 1-8.  
+      - HARDT, Michaela, CHEN, Xiaoguang, CHENG, Xiaoyi, et al. Amazon SageMaker Clarify: Machine learning bias detection and explainability in the cloud. In: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021. p. 2974-2983.   
       
       - MEHRABI, Ninareh, MORSTATTER, Fred, SAXENA, Nripsuta, et al. A survey on bias and fairness in machine learning. ACM Computing Surveys (CSUR), 2021, vol. 54, no 6, p. 1-35.  
       
@@ -75,8 +83,6 @@ This repository contains the following resources:
       - ROJAS, Elvis, KAHIRA, Albert Njoroge, MENESES, Esteban, et al. A study of checkpointing in large scale training of deep neural networks. arXiv preprint arXiv:2012.00825, 2020.  
       
       - WEERTS, Hilde JP, MUELLER, Andreas C., et VANSCHOREN, Joaquin. Importance of tuning hyperparameters of machine learning algorithms. arXiv preprint arXiv:2007.07588, 2020.  
-      
-      - VICTORIA, A. Helen et MARAGATHAM, Ganesh. Automatic tuning of hyperparameters using Bayesian optimization. Evolving Systems, 2021, vol. 12, no 1, p. 217-223.  
       
       - WANG, Chenyu, YANG, Zhou, LI, Ze Shi, et al. Quality assurance for artificial intelligence: A study of industrial concerns, challenges and best practices. arXiv preprint arXiv:2402.16391, 2024.  
             
